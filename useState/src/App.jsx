@@ -1,5 +1,6 @@
 
 import './App.css'
+import ListRender from './components/ListRender';
 import ManageData from './components/ManageData';
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <div className='App'>
         <h1>Hello-World</h1>
         <ManageData />
+        <ListRender />
       </div>
     </>
   );
