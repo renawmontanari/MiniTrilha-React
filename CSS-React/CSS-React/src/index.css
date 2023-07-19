@@ -4,7 +4,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: Helvetica, sans-serif;
-  background-color: black;
+  background-color: rgb(112, 112, 112);
 }
 
 h2 {
