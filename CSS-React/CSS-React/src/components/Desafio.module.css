@@ -1,0 +1,15 @@
+
+.car-brand {
+    background-color: blue;
+    color: white;
+}
+
+.car-color {
+    background-color: rgb(115, 255, 0);
+    color: white;
+}
+
+.car-km {
+    background-color: rgb(13, 184, 175);
+    color: white;
+}
