@@ -7,7 +7,7 @@ const MyComponent = () => {
         <p>Hello World</p>
         <p className="my-comp-paragraph">Este é o paragrafo do componente</p>
     </div>
-  )
-}
+  );
+};
 
-export default MyComponent
+export default MyComponent;

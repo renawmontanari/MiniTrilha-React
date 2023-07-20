@@ -2,7 +2,7 @@ import "./App.css";
 import MyComponent from "./components/MyComponent";
 
 import { useState } from "react";
-
+import Title from "./components/Title";
 
 function App() {
 
@@ -21,7 +21,9 @@ function App() {
           : null }
         >
           Teste nome
-        </h3>
+        </h3> 
+        {/* CSS Modules */}
+        <Title />
     </>
   );
 };
